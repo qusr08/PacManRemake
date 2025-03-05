@@ -3,17 +3,6 @@
 	"EngineAssociation": "5.4",
 	"Category": "",
 	"Description": "",
-	"Modules": [
-		{
-			"Name": "PacManRemake",
-			"Type": "Runtime",
-			"LoadingPhase": "Default",
-			"AdditionalDependencies": [
-				"CoreUObject",
-				"Engine"
-			]
-		}
-	],
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
